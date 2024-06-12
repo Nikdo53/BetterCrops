@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.nikdo53.bettercrops.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "bettercrops.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8.5"
+}

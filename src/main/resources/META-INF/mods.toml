@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+# issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+[[mods]]
+modId="bettercrops"
+version="${file.jarVersion}"
+displayName="BetterCrops"
+logoFile="icon.png"
+authors="Nikdo53"
+displayTest="MATCH_VERSION"
+description='''Example description'''
+
+[[dependencies.bettercrops]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.0.50,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bettercrops]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

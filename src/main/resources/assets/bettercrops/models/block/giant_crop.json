@@ -1,0 +1,8 @@
+{
+	"render_type": "cutout",
+	"ambientocclusion": false,
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "bettercrops:block/clear_texture"
+	}
+}
